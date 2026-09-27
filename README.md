@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project presents an end-to-end **Healthcare Revenue Cycle Management (RCM) analytics workflow** using **Microsoft Excel** to analyze claims, billing, denials, payer performance, unbilled procedures, and coding-related issues.
+This project presents an end-to-end **Healthcare Revenue Cycle Management (RCM) analytics workflow** using **Python** to analyze claims, billing, denials, payer performance, unbilled procedures, and coding-related issues.
 
 ## 🎯 Project Objectives
 
@@ -121,18 +121,17 @@ This component connects RCM analytics with **coding quality and compliance monit
 
 # 🛠️ Tools & Technologies
 
-## Microsoft Excel
+#Python
 
-Excel was used for business-oriented RCM analysis, including:
+Python was used for reproducible data analysis and analytical validation.
 
-* Data preparation
-* Claims and billing analysis
-* Formulas
-* Pivot tables
-* KPI calculations
-* Payer analysis
-* Denial analysis
-* Reporting and visualization
+Libraries used include:
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
 
 
 ---
@@ -228,7 +227,7 @@ The project produces analytical outputs related to:
 * Data Cleaning
 * Data Analysis
 * KPI Development
-* Microsoft Excel
+* Python
 * Healthcare Data Analytics
 * Business Analysis
 

@@ -16,7 +16,7 @@ The primary objectives of this project are to:
 * Calculate payer contract yield
 * Identify potentially unbilled procedures
 * Examine coding-related denial patterns
-* Combine Excel-based business analysis with Python-based analytical workflows
+* Combine business analysis with Python-based analytical workflows
 
 ---
 
